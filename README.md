@@ -8,10 +8,6 @@ I am a student wishes to be a algorithm engineer in the field of AI drug design.
 
 <img alt="jdhao's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true"><img alt="jdhao's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=jdhao&theme=solarized-light&hide_border=true" width="48%">
 
-# Random quotes
-
-<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
-
 # Profile view
 
-<img src="https://gpvc.arturio.dev/jdhao" alt="Profile views"/>
+<img src="https://gpvc.arturio.dev/abdusemiabduweli" alt="Profile views"/>
