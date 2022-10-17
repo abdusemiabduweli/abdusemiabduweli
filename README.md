@@ -1,6 +1,4 @@
-I am a student who wishes to be a algorithm engineer in the field of AI drug design. 
-
-![Profile views](https://gpvc.arturio.dev/abdusemiabduweli)
+![Profile views](https://gpvc.arturio.dev/abdusemiabduweli) I am a student who wishes to be a algorithm engineer in the field of AI drug design. 
 
 [![abdusemiabduweli's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdusemiabduweli&theme=react)](https://github.com/abdusemiabduweli)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdusemiabduweli&theme=react)](https://github.com/abdusemiabduweli)
